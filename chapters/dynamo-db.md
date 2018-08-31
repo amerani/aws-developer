@@ -64,6 +64,7 @@
 - `ProjectionExpression` to filter attributes
 - smaller page size
 - parallel scans, by dividing in segments (not recommended)
+- use Query, BatchGet instead
 
 ## Provisioned Throughput
 - measured in Read or Write Capacity Units
